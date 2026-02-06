@@ -1,4 +1,6 @@
+
 # LangGraph Workflows (Notebook Collection)
+<img width="1536" height="1024" alt="langgraph" src="https://github.com/user-attachments/assets/e3c94519-aefb-411a-a29a-e0e1ab3471ba" />
 
 This workspace demonstrates several small workflow patterns implemented with a `StateGraph` style orchestration. Each example is provided as a Jupyter notebook under the `notebooks/` directory and illustrates different workflow topologies and orchestration techniques without using LLMs.
 
@@ -51,4 +53,6 @@ Install basics with:
 source myenv/bin/activate
 pip install -r requirements.txt
 ```
+
+Credits: https://www.youtube.com/@campusx-official
 
